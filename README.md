@@ -7,7 +7,7 @@ La idea de este blog no es ser sólo una fuente de referencia relacionada con Si
 
 Este blog está basado en el aprendizaje por medio de la práctica. El contenido de este sitio está orientado a resolver los laboratorios propuestos por el libro <em>Digital Design and Computer Architecture 2nd. Ed. de David Harris &amp; Sarah Harris</em>, junto con algunos de los laboratorios de la clase que tomé. El libro es una gran referencia que explica con un lujo de detalles los temas del laboratorio.
 
-Para realizar las prácticas necesitarás un FPGA, que sirve para facilitar la implementación de sistemas lógicos complejos aumentando el tiempo que pasas diseñando y reduciendo el tiempo que requiere armarlos con compuertas lógicas. En el desarrollo de este proyecto se usa un FPGA de ALtera modelo Cyclone III incluido en la tarjeta de desarrollo de Terasic DE0.
+Para realizar las prácticas necesitarás un FPGA, que sirve para facilitar la implementación de sistemas lógicos complejos aumentando el tiempo que pasas diseñando y reduciendo el tiempo que requiere armarlos con compuertas lógicas. En el desarrollo de este proyecto se usa un FPGA de Altera modelo Cyclone III incluido en la tarjeta de desarrollo de Terasic DE0.
 
 Si te interesa la electrónica pásate por mi <a title="Manos a los Cables" href="https://byque.wordpress.com/acerca-de/">página principal</a> en la que encontrarás información relacionada con Arduino, robótica, Raspberry Pi, microcontroladores, entre otras cosas.
 
