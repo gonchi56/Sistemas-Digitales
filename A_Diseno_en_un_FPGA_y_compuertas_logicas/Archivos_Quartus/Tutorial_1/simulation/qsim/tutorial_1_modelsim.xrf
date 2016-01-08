@@ -1,0 +1,9 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/byron_000/Desktop/Tutorial_1/tutorial_1.bdf
+source_file = 1, C:/Users/byron_000/Desktop/Tutorial_1/simulacion.vwf
+source_file = 1, C:/Users/byron_000/Desktop/Tutorial_1/db/tutorial_1.cbx.xml
+design_name = tutorial_1
+instance = comp, \Y~output , Y~output, tutorial_1, 1
+instance = comp, \C~input , C~input, tutorial_1, 1
+instance = comp, \B~input , B~input, tutorial_1, 1
+instance = comp, \A~input , A~input, tutorial_1, 1

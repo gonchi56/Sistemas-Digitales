@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\byron_000\Desktop\Tutorial_1\simulation\qsim
+vtutorial_1
+Z1 !s100 ?OagPYGe:_l^OFa0J_KJi2
+Z2 IbYMI>YaTJO=Vg^h5>Z_Rk3
+Z3 VgS[eb7Fb8ll]B4AF1=ik[2
+Z4 dC:\Users\byron_000\Desktop\Tutorial_1\simulation\qsim
+Z5 w1422938907
+Z6 8tutorial_1.vo
+Z7 Ftutorial_1.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|tutorial_1.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1422938911.261000
+Z12 !s107 tutorial_1.vo|
+!s101 -O0
+vtutorial_1_vlg_check_tst
+!i10b 1
+Z13 !s100 <?meWW3RL9R7@HGn^L`z<2
+Z14 IQlKEQ75XzRoHZGFTMR=9f3
+Z15 V`<e?zNbof]gZ2@T<i:SPd3
+R4
+Z16 w1422938904
+Z17 8simulacion.vwf.vt
+Z18 Fsimulacion.vwf.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z19 !s108 1422938913.961000
+Z20 !s107 simulacion.vwf.vt|
+Z21 !s90 -work|work|simulacion.vwf.vt|
+!s101 -O0
+R10
+vtutorial_1_vlg_sample_tst
+!i10b 1
+Z22 !s100 c<ol_6b<=5zi9gI3G;Y?U3
+Z23 IIgTCfXkFGzl1KoM=JLZ@M1
+Z24 VWL=XJ1FE9QeN0Rk;mk8Ol1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vtutorial_1_vlg_vec_tst
+!i10b 1
+!s100 3U9Qj^O=V8HIm:=Nk?efU0
+IfF5P4fkgkC9c<Pl?ZoHX81
+Z25 V?=;_4RNcc2VBiM=O0TSY20
+R4
+R16
+R17
+R18
+Z26 L0 156
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

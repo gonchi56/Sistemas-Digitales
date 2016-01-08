@@ -1,0 +1,8 @@
+C:/Users/byron_000/Desktop/Tutorial_1/tutorial_1.v {1 {vlog -work work C:/Users/byron_000/Desktop/Tutorial_1/tutorial_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tutorial_1
+
+Top level modules:
+	tutorial_1
+
+} {} {}}
